@@ -14,7 +14,15 @@
   "author": "javier salcedo",
   "license": "MIT",
   "bin": {
-    "random-msg-javier": "./bin/global.js"
+    "random-msg-javier": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javiersalcedoj/random-name.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Javiersalcedoj/random-name/issues"
+  },
+  "homepage": "https://github.com/Javiersalcedoj/random-name#readme"
 }
